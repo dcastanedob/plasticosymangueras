@@ -1,0 +1,14 @@
+.woocommerce div.product .product_title{
+	color:#F4821B;
+}
+.woocommerce-tabs{
+	display:none;
+}
+
+.woocommerce #content div.product div.images, .woocommerce div.product div.images, .woocommerce-page #content div.product div.images, .woocommerce-page div.product div.images{
+	margin-top: 20px;
+}
+
+.entry-summary{
+	margin-top: 20px;
+}
